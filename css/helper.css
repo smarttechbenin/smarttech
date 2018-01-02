@@ -1,0 +1,27 @@
+/**
+  @author: AMOUSSOU Z. Kenneth
+  @date: 30 - 12 - 2017
+  @version: 1.0
+*/
+.inline-block{
+  display: inline-block;
+}
+
+.block{
+  display: block;
+}
+
+.short-line{
+  display: block;
+  width: 80px;
+  margin: 0 auto;
+  border: 2px solid rgba(0, 0, 0, 0.6);;
+}
+
+.cursor{
+  cursor: pointer;
+}
+
+.transparent{
+  background: transparent;
+}
