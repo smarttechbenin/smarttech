@@ -1,0 +1,2 @@
+# smarttech
+Smart Technology Benin
